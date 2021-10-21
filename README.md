@@ -1,5 +1,10 @@
 # 탱고 플레이트 (망고플레이트 클론코딩)
 
+## ERD Table
+
+<img width="829" alt="tangoplate_erd" src="https://user-images.githubusercontent.com/8315252/138203924-66404eca-cf8d-4995-8835-46048966e80b.png">
+
+
 ## Tango Plate Project Family
 
 - F.E<br>
